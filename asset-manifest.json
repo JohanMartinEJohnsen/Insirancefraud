@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Insirancefraud/static/css/main.ab85c69e.chunk.css",
+    "main.js": "/Insirancefraud/static/js/main.35f289fa.chunk.js",
+    "main.js.map": "/Insirancefraud/static/js/main.35f289fa.chunk.js.map",
+    "runtime-main.js": "/Insirancefraud/static/js/runtime-main.f18e152c.js",
+    "runtime-main.js.map": "/Insirancefraud/static/js/runtime-main.f18e152c.js.map",
+    "static/js/2.a43cc98a.chunk.js": "/Insirancefraud/static/js/2.a43cc98a.chunk.js",
+    "static/js/2.a43cc98a.chunk.js.map": "/Insirancefraud/static/js/2.a43cc98a.chunk.js.map",
+    "static/js/3.a2535f62.chunk.js": "/Insirancefraud/static/js/3.a2535f62.chunk.js",
+    "static/js/3.a2535f62.chunk.js.map": "/Insirancefraud/static/js/3.a2535f62.chunk.js.map",
+    "index.html": "/Insirancefraud/index.html",
+    "static/css/main.ab85c69e.chunk.css.map": "/Insirancefraud/static/css/main.ab85c69e.chunk.css.map",
+    "static/js/2.a43cc98a.chunk.js.LICENSE.txt": "/Insirancefraud/static/js/2.a43cc98a.chunk.js.LICENSE.txt",
+    "static/media/Ian.png": "/Insirancefraud/static/media/Ian.bc7a1f61.png",
+    "static/media/Ian_rap.png": "/Insirancefraud/static/media/Ian_rap.8ae7092d.png",
+    "static/media/Karl.png": "/Insirancefraud/static/media/Karl.745b02b4.png",
+    "static/media/Karl_rap.png": "/Insirancefraud/static/media/Karl_rap.78108469.png",
+    "static/media/Sverre.png": "/Insirancefraud/static/media/Sverre.6a0cfede.png",
+    "static/media/Sverre_rap.png": "/Insirancefraud/static/media/Sverre_rap.1e8aa935.png",
+    "static/media/Thorstein.png": "/Insirancefraud/static/media/Thorstein.74133fb0.png",
+    "static/media/Thorstein_rap.png": "/Insirancefraud/static/media/Thorstein_rap.c204d82a.png",
+    "static/media/firstImg.png": "/Insirancefraud/static/media/firstImg.4febe102.png",
+    "static/media/secondImg.png": "/Insirancefraud/static/media/secondImg.c7629bdb.png",
+    "static/media/thirdImg.png": "/Insirancefraud/static/media/thirdImg.53fae218.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f18e152c.js",
+    "static/js/2.a43cc98a.chunk.js",
+    "static/css/main.ab85c69e.chunk.css",
+    "static/js/main.35f289fa.chunk.js"
+  ]
+}
